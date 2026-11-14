@@ -3,6 +3,7 @@
 Turn the videos you already have into TikToks, Shorts and Reels. A free Windows app.
 
 - **Import a video** you already have, or record yourself over B-roll.
+- **Pull clips from Twitch**: connect your channel and send clips straight into Clip Studio.
 - **Trim it**, add text, pictures, zooms and transitions.
 - **Export a 1080p MP4** in 9:16 for TikTok, Shorts and Reels, or 16:9 for YouTube.
 - **Everything runs on your PC.** Nothing gets uploaded.
@@ -24,7 +25,7 @@ Windows 10 or 11. On first launch the app downloads FFmpeg (about 160 MB), the f
 | Automatic captions, made on your PC | No | Yes |
 | No "Made with Creator Hub" mark on exports | No | Yes |
 
-Get Pro on the **[website](https://REPLACE-WITH-YOUR-SITE)**. Paste your license key in **Settings → License**.
+Pro is coming soon. More on the **[website](https://creatorhub-site.sttv-creatorhub.workers.dev)**.
 
 ## Help and feedback
 
